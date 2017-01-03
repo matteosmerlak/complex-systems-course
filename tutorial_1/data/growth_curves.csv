@@ -1,207 +1,207 @@
-Time,Mass (g),Study Number
-0.000,0.010,1
-7.000,0.015,1
-14.000,0.030,1
-21.000,0.050,1
-28.000,0.070,1
-35.000,0.085,1
-42.000,0.110,1
-49.000,0.115,1
-56.000,0.125,1
-63.000,0.135,1
-70.000,0.145,1
-73.500,0.135,1
-87.500,0.140,1
-84.000,0.135,1
-5.000,45.000,2
-7.000,85.000,2
-9.000,125.000,2
-11.000,210.000,2
-13.000,300.000,2
-15.000,485.000,2
-17.000,570.000,2
-19.000,700.000,2
-21.000,830.000,2
-23.000,940.000,2
-25.000,1030.000,2
-27.000,1120.000,2
-0.000,43.000,3
-3.000,54.000,3
-6.000,91.000,3
-9.000,152.000,3
-12.000,216.000,3
-15.000,299.000,3
-18.000,351.000,3
-21.000,392.000,3
-60.000,679.000,3
-90.000,1152.000,3
-120.000,1602.000,3
-150.000,1724.000,3
-180.000,1784.000,3
-210.000,1925.000,3
-240.000,2126.000,3
-270.000,2054.000,3
-300.000,1878.000,3
-330.000,1931.000,3
-360.000,2260.000,3
-0.000,0.098,4
-60.000,0.460,4
-90.000,0.458,4
-120.000,0.786,4
-150.000,0.984,4
-180.000,2.090,4
-210.000,3.193,4
-420.000,6.871,4
-450.000,11.959,4
-480.000,19.042,4
-510.000,26.299,4
-540.000,40.865,4
-570.000,56.690,4
-780.000,59.355,4
-810.000,81.037,4
-840.000,94.996,4
-870.000,98.772,4
-900.000,98.696,4
-930.000,115.392,4
-1140.000,136.639,4
-1170.000,130.157,4
-1200.000,138.261,4
-1230.000,161.085,4
-1260.000,138.380,4
-0.000,8.000,5
-20.000,22.000,5
-40.000,40.000,5
-50.000,57.000,5
-60.000,74.000,5
-65.000,90.000,5
-73.000,105.000,5
-80.000,120.000,5
-85.000,135.000,5
-90.000,150.000,5
-110.000,177.000,5
-120.000,195.000,5
-140.000,210.000,5
-155.000,220.000,5
-180.000,240.000,5
-210.000,250.000,5
-370.000,280.000,5
-1460.000,908.949,6
-1460.000,836.296,6
-1825.000,1329.143,6
-1825.000,1122.476,6
-2190.000,1750.553,6
-2190.000,1750.553,6
-2482.000,2582.965,6
-2445.500,3134.100,6
-2737.500,4102.956,6
-2847.000,3233.107,6
-3285.000,5398.212,6
-3285.000,5985.897,6
-3540.500,6454.179,6
-3540.500,5985.897,6
-1.000,2.400,7
-2.000,4.000,7
-3.000,5.800,7
-4.000,7.800,7
-5.000,8.800,7
-6.000,11.400,7
-7.000,13.200,7
-8.000,15.800,7
-9.000,16.800,7
-10.000,18.000,7
-11.000,18.400,7
-12.000,18.300,7
-0.000,0.300,8
-2.000,0.500,8
-3.000,0.800,8
-4.000,1.100,8
-6.000,1.600,8
-8.000,2.100,8
-9.000,2.400,8
-11.000,3.000,8
-13.000,3.400,8
-14.000,3.300,8
-16.000,3.200,8
-19.000,3.550,8
-66.667,67.500,9
-100.000,72.000,9
-133.333,73.500,9
-150.000,90.000,9
-191.667,90.000,9
-233.333,111.000,9
-308.333,120.000,9
-350.000,126.000,9
-400.000,150.000,9
-500.000,180.000,9
-525.000,210.000,9
-566.667,219.000,9
-616.667,240.000,9
-666.667,270.000,9
-683.333,300.000,9
-725.000,330.000,9
-766.667,390.000,9
-783.333,420.000,9
-800.000,450.000,9
-808.333,480.000,9
-816.667,510.000,9
-821.667,534.000,9
-825.000,570.000,9
-825.000,630.000,9
-833.333,690.000,9
-833.333,720.000,9
-850.000,780.000,9
-26.243,304.021,10
-38.296,420.912,10
-57.183,536.729,10
-88.435,752.279,10
-118.852,963.539,10
-149.217,1123.861,10
-179.009,1236.997,10
-209.687,1262.735,10
-239.270,1269.169,10
-271.461,1313.673,10
-302.191,1315.282,10
-330.000,1327.614,10
-358.383,1334.584,10
-45.000,5000.000,11
-99.000,10000.000,11
-129.000,15000.000,11
-150.000,20000.000,11
-159.000,25000.000,11
-219.000,50000.000,11
-282.000,75000.000,11
-330.000,100000.000,11
-390.000,125000.000,11
-435.000,150000.000,11
-540.000,175000.000,11
-630.000,200000.000,11
-690.000,225000.000,11
-750.000,250000.000,11
-0.000,33333.333,12
-60.000,41666.667,12
-90.000,54166.667,12
-120.000,75000.000,12
-180.000,108333.333,12
-210.000,133333.333,12
-240.000,158333.333,12
-300.000,191666.667,12
-390.000,216666.667,12
-420.000,233333.333,12
-570.000,283333.333,12
-600.000,300000.000,12
-690.000,333333.333,12
-900.000,358333.333,12
-1050.000,366666.667,12
-1290.000,395833.333,12
-1350.000,404166.667,12
-1650.000,416666.667,12
-2010.000,433333.333,12
-2250.000,441666.667,12
-2400.000,441666.667,12
-3.000,0.001,13
-60.000,0.005,13
-90.000,0.018,13
-120.000,0.037,13
-150.000,0.060,13
-180.000,0.067,13
-384.000,0.070,13
+Time,Mass (g),Organism
+0,0.01,Guppy (Lebistes reticulatus)
+7,0.015,Guppy (Lebistes reticulatus)
+14,0.03,Guppy (Lebistes reticulatus)
+21,0.05,Guppy (Lebistes reticulatus)
+28,0.07,Guppy (Lebistes reticulatus)
+35,0.085,Guppy (Lebistes reticulatus)
+42,0.11,Guppy (Lebistes reticulatus)
+49,0.115,Guppy (Lebistes reticulatus)
+56,0.125,Guppy (Lebistes reticulatus)
+63,0.135,Guppy (Lebistes reticulatus)
+70,0.145,Guppy (Lebistes reticulatus)
+73.5,0.135,Guppy (Lebistes reticulatus)
+87.5,0.14,Guppy (Lebistes reticulatus)
+84,0.135,Guppy (Lebistes reticulatus)
+5,45,Heron (Ardea cinerea)
+7,85,Heron (Ardea cinerea)
+9,125,Heron (Ardea cinerea)
+11,210,Heron (Ardea cinerea)
+13,300,Heron (Ardea cinerea)
+15,485,Heron (Ardea cinerea)
+17,570,Heron (Ardea cinerea)
+19,700,Heron (Ardea cinerea)
+21,830,Heron (Ardea cinerea)
+23,940,Heron (Ardea cinerea)
+25,1030,Heron (Ardea cinerea)
+27,1120,Heron (Ardea cinerea)
+0,43,Hen
+3,54,Hen
+6,91,Hen
+9,152,Hen
+12,216,Hen
+15,299,Hen
+18,351,Hen
+21,392,Hen
+60,679,Hen
+90,1152,Hen
+120,1602,Hen
+150,1724,Hen
+180,1784,Hen
+210,1925,Hen
+240,2126,Hen
+270,2054,Hen
+300,1878,Hen
+330,1931,Hen
+360,2260,Hen
+0,0.098,Salmon (Oncorhynchus nerka)
+60,0.46,Salmon (Oncorhynchus nerka)
+90,0.458,Salmon (Oncorhynchus nerka)
+120,0.786,Salmon (Oncorhynchus nerka)
+150,0.984,Salmon (Oncorhynchus nerka)
+180,2.09,Salmon (Oncorhynchus nerka)
+210,3.193,Salmon (Oncorhynchus nerka)
+420,6.871,Salmon (Oncorhynchus nerka)
+450,11.959,Salmon (Oncorhynchus nerka)
+480,19.042,Salmon (Oncorhynchus nerka)
+510,26.299,Salmon (Oncorhynchus nerka)
+540,40.865,Salmon (Oncorhynchus nerka)
+570,56.69,Salmon (Oncorhynchus nerka)
+780,59.355,Salmon (Oncorhynchus nerka)
+810,81.037,Salmon (Oncorhynchus nerka)
+840,94.996,Salmon (Oncorhynchus nerka)
+870,98.772,Salmon (Oncorhynchus nerka)
+900,98.696,Salmon (Oncorhynchus nerka)
+930,115.392,Salmon (Oncorhynchus nerka)
+1140,136.639,Salmon (Oncorhynchus nerka)
+1170,130.157,Salmon (Oncorhynchus nerka)
+1200,138.261,Salmon (Oncorhynchus nerka)
+1230,161.085,Salmon (Oncorhynchus nerka)
+1260,138.38,Salmon (Oncorhynchus nerka)
+0,8,Rat
+20,22,Rat
+40,40,Rat
+50,57,Rat
+60,74,Rat
+65,90,Rat
+73,105,Rat
+80,120,Rat
+85,135,Rat
+90,150,Rat
+110,177,Rat
+120,195,Rat
+140,210,Rat
+155,220,Rat
+180,240,Rat
+210,250,Rat
+370,280,Rat
+1460,908.949,Atlantic Cod (Gadus morhua)
+1460,836.296,Atlantic Cod (Gadus morhua)
+1825,1329.143,Atlantic Cod (Gadus morhua)
+1825,1122.476,Atlantic Cod (Gadus morhua)
+2190,1750.553,Atlantic Cod (Gadus morhua)
+2190,1750.553,Atlantic Cod (Gadus morhua)
+2482,2582.965,Atlantic Cod (Gadus morhua)
+2445.5,3134.1,Atlantic Cod (Gadus morhua)
+2737.5,4102.956,Atlantic Cod (Gadus morhua)
+2847,3233.107,Atlantic Cod (Gadus morhua)
+3285,5398.212,Atlantic Cod (Gadus morhua)
+3285,5985.897,Atlantic Cod (Gadus morhua)
+3540.5,6454.179,Atlantic Cod (Gadus morhua)
+3540.5,5985.897,Atlantic Cod (Gadus morhua)
+1,2.4,Robin (Erithacus rubecula)
+2,4,Robin (Erithacus rubecula)
+3,5.8,Robin (Erithacus rubecula)
+4,7.8,Robin (Erithacus rubecula)
+5,8.8,Robin (Erithacus rubecula)
+6,11.4,Robin (Erithacus rubecula)
+7,13.2,Robin (Erithacus rubecula)
+8,15.8,Robin (Erithacus rubecula)
+9,16.8,Robin (Erithacus rubecula)
+10,18,Robin (Erithacus rubecula)
+11,18.4,Robin (Erithacus rubecula)
+12,18.3,Robin (Erithacus rubecula)
+0,0.3,Shrew (Sorex cinereus)
+2,0.5,Shrew (Sorex cinereus)
+3,0.8,Shrew (Sorex cinereus)
+4,1.1,Shrew (Sorex cinereus)
+6,1.6,Shrew (Sorex cinereus)
+8,2.1,Shrew (Sorex cinereus)
+9,2.4,Shrew (Sorex cinereus)
+11,3,Shrew (Sorex cinereus)
+13,3.4,Shrew (Sorex cinereus)
+14,3.3,Shrew (Sorex cinereus)
+16,3.2,Shrew (Sorex cinereus)
+19,3.55,Shrew (Sorex cinereus)
+66.667,67.5,Guinea Pig
+100,72,Guinea Pig
+133.333,73.5,Guinea Pig
+150,90,Guinea Pig
+191.667,90,Guinea Pig
+233.333,111,Guinea Pig
+308.333,120,Guinea Pig
+350,126,Guinea Pig
+400,150,Guinea Pig
+500,180,Guinea Pig
+525,210,Guinea Pig
+566.667,219,Guinea Pig
+616.667,240,Guinea Pig
+666.667,270,Guinea Pig
+683.333,300,Guinea Pig
+725,330,Guinea Pig
+766.667,390,Guinea Pig
+783.333,420,Guinea Pig
+800,450,Guinea Pig
+808.333,480,Guinea Pig
+816.667,510,Guinea Pig
+821.667,534,Guinea Pig
+825,570,Guinea Pig
+825,630,Guinea Pig
+833.333,690,Guinea Pig
+833.333,720,Guinea Pig
+850,780,Guinea Pig
+26.243,304.021,Domestic Rabbit
+38.296,420.912,Domestic Rabbit
+57.183,536.729,Domestic Rabbit
+88.435,752.279,Domestic Rabbit
+118.852,963.539,Domestic Rabbit
+149.217,1123.861,Domestic Rabbit
+179.009,1236.997,Domestic Rabbit
+209.687,1262.735,Domestic Rabbit
+239.27,1269.169,Domestic Rabbit
+271.461,1313.673,Domestic Rabbit
+302.191,1315.282,Domestic Rabbit
+330,1327.614,Domestic Rabbit
+358.383,1334.584,Domestic Rabbit
+45,5000,Domestic Pig
+99,10000,Domestic Pig
+129,15000,Domestic Pig
+150,20000,Domestic Pig
+159,25000,Domestic Pig
+219,50000,Domestic Pig
+282,75000,Domestic Pig
+330,100000,Domestic Pig
+390,125000,Domestic Pig
+435,150000,Domestic Pig
+540,175000,Domestic Pig
+630,200000,Domestic Pig
+690,225000,Domestic Pig
+750,250000,Domestic Pig
+0,33333.333,Cow
+60,41666.667,Cow
+90,54166.667,Cow
+120,75000,Cow
+180,108333.333,Cow
+210,133333.333,Cow
+240,158333.333,Cow
+300,191666.667,Cow
+390,216666.667,Cow
+420,233333.333,Cow
+570,283333.333,Cow
+600,300000,Cow
+690,333333.333,Cow
+900,358333.333,Cow
+1050,366666.667,Cow
+1290,395833.333,Cow
+1350,404166.667,Cow
+1650,416666.667,Cow
+2010,433333.333,Cow
+2250,441666.667,Cow
+2400,441666.667,Cow
+3,0.001,Shrimp (Mysis mixta)
+60,0.005,Shrimp (Mysis mixta)
+90,0.018,Shrimp (Mysis mixta)
+120,0.037,Shrimp (Mysis mixta)
+150,0.06,Shrimp (Mysis mixta)
+180,0.067,Shrimp (Mysis mixta)
+384,0.07,Shrimp (Mysis mixta)

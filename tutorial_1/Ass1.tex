@@ -2,7 +2,6 @@
 \usepackage{notes}
 \usepackage{answers}
 
-
 \Newassociation{sol}{Solution}{ans}\newtheorem{Ex}{Exercise}
 
 
@@ -11,7 +10,7 @@
 % \renewcommand{\sfdefault}{cmss}
 % \renewcommand{\familydefault}{\sfdefault}
 
-\newcommand{\thiscoursecode}{Laws of growth}
+\newcommand{\thiscoursecode}{Laws of biological growth?}
 \newcommand{\thiscoursename}{Complex Systems}
 \newcommand{\thisprof}{Matteo Smerlak}
 \newcommand{\me}{Matteo Smerlak}
@@ -40,13 +39,47 @@
 \vspace{1cm}
 
 
-This assignment should be returned as a Jupyter notebook (.ipynb file). Go to \url{http://jupyter.org} to install Jupyter or run it in your browser (\url{https://try.jupyter.org}).  
+This assignment should be returned as a commented Jupyter notebook (.ipynb file). Go to \url{http://jupyter.org} to install Jupyter or run it in your browser (\url{https://try.jupyter.org}). 
+
+\medskip
+The datasets are on my GitHub page, at \url{https://github.com/msmerlak/complex-systems-course/}
+
+\medskip
+If your response happens to be inspired by online content, say it clearly and show us that you actually used your brain in the process. 
 
 \bigskip
 
 \begin{Ex}
-Download the data 
+The dataset growth\textunderscore scaling.csv contains information about the growth dynamics of 1500+ living species, both  prokaryotes and eukaryotes. 
 
+\begin{enumerate}
+	\item Identify a mathematical function $m(t)$ which could plausibly represent the growth curve of a living being (i.e. its mass as a function of time from birth to death/replication) and plot it, with labelled axes, plot label, etc --- make it look nice. Explain why your choice of $m(t)$ is sensible and what approximations underlies it, if any. 
+	\item  Compute within your chosen model (analytically if you can, else numerically) the time $t^*$ when the organism grows fastest, i.e. when $dm/dt$ reaches its maximum. Add this point on your plot of $m(t)$. 
+	\item In the dataset, the value $x_g$ corresponds to measured values of $m(t^*)$ (in grams) and $y_g$ to $dm/dt(t^*)$ (in grams per year) respectively. What relationship do you expect to hold between $x_g$ and $y_g$?
+	\item Test this assumption with a suitable regression (e.g. from scipy.optimize import least\textunderscore squares).
+	\item Plot the data again, this time on log-log axes. Does a pattern emerge?
+	\item Explain how a power-law relationship of the form $y=ax^k$ looks on log-log axes. 
+	\item Conclude: what is the relationship between growth and mass at maximum growth across the tree of life? Estimate the relevant parameters by a suitable fitting procedure.  
+\end{enumerate}
+
+\end{Ex}
+
+
+\begin{Ex}
+		The dataset growth\textunderscore curves.csv contains empirically measured growth curves $m(t)$ for $13$ different animals.
+		\begin{enumerate}
+			\item How similar do you expect these growth curves to be, given the species chosen?
+			\item Plot all $13$ curves (as always with labelled axes etc.). How similar are they?
+			\item It has been argued that the equation $$\frac{dm}{dt}=am^{3/4}-bm$$ provides a good model of the growth dynamics of animals. Solve this differential equation. How many free parameters does the solution have?
+			\item Estimate these parameters for each species using a suitable fitting procedure. 
+			\item Compute the limiting value $M=\lim_{t\to\infty}m(t)$ as a function of the  parameters. Estimate $M$ for each species. 
+			\item Add the following two columns to the dataset: $r=(m/M)^{1/4}$ and $\tau=(at/4M^{1/4})-\ln[1-(m_0/M)^{1/4}]$. Plot $r$ vs. $\tau$ for all species on a single plot and comment on the result.
+		\end{enumerate}
+\end{Ex}
+
+
+\begin{Ex}
+Do the results presented in this assignment qualify as ``laws of complex systems"? Share your thoughts.  	
 \end{Ex}
 
 

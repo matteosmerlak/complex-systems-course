@@ -45,7 +45,7 @@ This assignment should be returned as a commented Jupyter notebook (.ipynb file)
 The datasets are on my GitHub page, at \url{https://github.com/msmerlak/complex-systems-course/}
 
 \medskip
-If your response happens to be inspired by online content, say it clearly and show us that you actually used your brain in the process. 
+If your response happens to be inspired by online content, say it clearly, tell us where you found the content,  and show us that you challenged yourself in the process. 
 
 \bigskip
 
@@ -53,13 +53,13 @@ If your response happens to be inspired by online content, say it clearly and sh
 The dataset growth\textunderscore scaling.csv contains information about the growth dynamics of 1500+ living species, both  prokaryotes and eukaryotes. 
 
 \begin{enumerate}
-	\item Identify a mathematical function $m(t)$ which could plausibly represent the growth curve of a living being (i.e. its mass as a function of time from birth to death/replication) and plot it, with labelled axes, plot label, etc --- make it look nice. Explain why your choice of $m(t)$ is sensible and what approximations underlies it, if any. 
-	\item  Compute within your chosen model (analytically if you can, else numerically) the time $t^*$ when the organism grows fastest, i.e. when $dm/dt$ reaches its maximum. Add this point on your plot of $m(t)$. 
+	\item Identify a mathematical function $m(t)$ which could plausibly represent the growth curve of a living being (i.e. its mass as a function of time from birth to death/replication) and plot it, with labelled axes, plot label, etc. Explain why your choice of $m(t)$ is sensible and what approximations underlies it, if any. 
+	\item  Compute within your chosen model (analytically if you can,  numerically else) the time $t^*$ when the organism grows fastest, i.e. when $dm/dt$ reaches its maximum. Add this point on your plot of $m(t)$. 
 	\item In the dataset, the value $x_g$ corresponds to measured values of $m(t^*)$ (in grams) and $y_g$ to $dm/dt(t^*)$ (in grams per year) respectively. What relationship do you expect to hold between $x_g$ and $y_g$?
-	\item Test this assumption with a suitable regression (e.g. from scipy.optimize import least\textunderscore squares).
+	\item Test this assumption with a suitable regression package (e.g. \textbf{from} scipy.optimize \textbf{import} curve\textunderscore fit).
 	\item Plot the data again, this time on log-log axes. Does a pattern emerge?
 	\item Explain how a power-law relationship of the form $y=ax^k$ looks on log-log axes. 
-	\item Conclude: what is the relationship between growth and mass at maximum growth across the tree of life? Estimate the relevant parameters by a suitable fitting procedure.  
+	\item Conclude: what is the relationship between growth and mass at maximum growth across the tree of life? Estimate the relevant parameters by a suitable fitting procedure (with confidence intervals, of course). 
 \end{enumerate}
 
 \end{Ex}
@@ -79,7 +79,7 @@ The dataset growth\textunderscore scaling.csv contains information about the gro
 
 
 \begin{Ex}
-Do the results presented in this assignment qualify as ``laws of complex systems"? Share your thoughts.  	
+Do the results presented in this assignment qualify as ``laws of complex systems''? Share your thoughts.  	
 \end{Ex}
 
 
